@@ -1,4 +1,4 @@
-# PRD Discussion Generator
+# 需求文档研讨小作坊 · PRD Discussion Workshop
 
 一个用“需求研讨会”的方式生成 PRD 的小工具。
 
