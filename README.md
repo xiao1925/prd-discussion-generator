@@ -135,7 +135,7 @@ http://10.10.116.72:4188
 
 ## 配置模型 API
 
-复制 `.env.example` 为 `.env`，然后填你的中转 API。
+复制 `.env.example` 为 `.env`，然后填你的 API。
 
 ```env
 CODEX_API_KEY=your-relay-key
